@@ -1,0 +1,75 @@
+[
+    {
+       "land": "Nederland",
+       "cover": "https://i.pinimg.com/originals/e2/8d/f0/e28df047c2d47514ae6cb87e8e20d174.png",
+       "Staatshoofd": ["Willem-Alexander"],
+       "Sinds": " januari 1588",
+       "Inwoners": "17.084.719",
+       "taal": "Nederlands",
+       "code": "+31"
+    },
+    {
+        "land": "Verenigd Koninkrijk",
+        "cover": "http://vlaggenparade.nl/wp-content/uploads/2016/07/gb.png",
+        "Staatshoofd": ["Elizabeth II"],
+        "Sinds": "maart 1707",
+        "Inwoners": "64.769.452",
+        "taal": "Engels",
+        "code": "+44"
+     },
+     {
+        "land": "Verenigde Staten",
+        "cover": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-800.png",
+        "Staatshoofd": ["Donald Trump"],
+        "Sinds": "juli 1776",
+        "Inwoners": "326.625.791",
+        "taal": "Engels",
+        "code": "+1"
+     },
+     {
+      "land": "Rusland",
+      "cover": "https://cdn.countryflags.com/thumbs/russia/flag-800.png",
+      "Staatshoofd": ["Vladimir Poetin "],
+      "Sinds": "januari 1547",
+      "Inwoners": "146,793,744",
+      "taal": "Russisch",
+      "code": "+7"
+      },
+     {
+        "land": "Spanje",
+        "cover": "https://www.worldatlas.com/img/flag/es-flag.jpg",
+        "Staatshoofd": ["Felipe VI"],
+        "Sinds": "februari 1469",
+        "Inwoners": "48.958.159",
+        "taal": "Spaans",
+        "code": "+34"
+     },
+     {
+      "land": "Portugal",
+      "cover": "https://cdn.countryflags.com/thumbs/portugal/flag-800.png",
+      "Staatshoofd": ["Marcelo Rebelo de Sousa"],
+      "Sinds": "juli 1139",
+      "Inwoners": "10.839.514",
+      "taal": "Portugees",
+      "code": "+351"
+      },
+     {
+        "land": "Brazilië",
+        "cover": "https://img.theculturetrip.com/768x432/wp-content/uploads/2017/06/brazili-flaf.png",
+        "Staatshoofd": ["Jair Bolsonaro"],
+        "Sinds": "september 1822",
+        "Inwoners": "207.353.391",
+        "taal": "Portugees",
+        "code": "+55"
+     },
+     {
+        "land": "Venezuela",
+        "cover": "https://cdn.webshopapp.com/shops/56841/files/30987570/vlag-venezuela-flag-8-stars-weapon.jpg",
+        "Staatshoofd": ["Nicolas Maduro"],
+        "Sinds": "juli 1811",
+        "Inwoners": "31.304.016",
+        "taal": "Spaans",
+        "code": "+58"
+     }
+ ]
+

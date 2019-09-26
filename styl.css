@@ -1,0 +1,15 @@
+
+.Selectie__cover{
+    max-width: 100px;
+}
+
+.Selectie__rij--accent {
+    background-color: #def;
+}
+.Selectie__data{
+    padding: 1em;
+    vertical-align: top;
+}
+.Selectie__data:nth-child(3) {
+
+}
